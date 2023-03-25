@@ -6,3 +6,9 @@ Se basa en una aventura conversacional con minijuegos entre medio que busca expr
 en un lugar con una situacion totalmente inestable, en el videojuego tomas la piel de un trabajador que debe afrontar 
 cada dia de trabajo con las dificultades comunes de todas las personas como los gastos del dia a dia, las peculiaridades 
 que puedes sufrir en la calle e infortunios que te pueden llevar a la quiebra.
+
+Este proyecto esta programdado en C++ utilizando repositorios de github para lograr 
+
+![](https://i.pinimg.com/564x/93/6c/56/936c56553b23a1f0b66a00b2cd2a703b.jpg)
+![](https://i.pinimg.com/originals/68/f9/97/68f9971047812368395024e06551e671.png)
+![](https://i.pinimg.com/originals/67/ee/ae/67eeaeb7119ca1df6c27e612ce1a7dc5.png)
